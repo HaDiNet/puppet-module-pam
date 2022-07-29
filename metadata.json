@@ -11,7 +11,7 @@
   "requirements": [
     {
       "name": "puppet",
-      "version_requirement": ">= 5.0.0 < 7.0.0"
+      "version_requirement": ">= 5.0.0 < 8.0.0"
     }
   ],
   "operatingsystem_support": [
@@ -108,6 +108,6 @@
   ],
   "dependencies": [
     {"name":"trlinkin/nsswitch","version_requirement":">= 2.1.0 < 3.0.0"},
-    {"name":"puppetlabs/stdlib","version_requirement":">= 4.25.0 < 7.0.0"}
+    {"name":"puppetlabs/stdlib","version_requirement":">= 4.25.0 < 9.0.0"}
   ]
 }
